@@ -2059,3 +2059,16 @@ footer hr {
     text-align: center !important;
 }
 
+.proj-img {
+    height: 100px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.proj-text {
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
