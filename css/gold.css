@@ -130,7 +130,8 @@ ul.social-buttons li a:active {
 /* =Progress Bars
 -------------------------------------------------------------- */
 .progress-bar {
-    background-color: #d2b45b;
+    background-color: #a89048;
+    color: #fff;
 }
 
 /* =Modals
