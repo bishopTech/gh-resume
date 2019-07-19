@@ -169,11 +169,11 @@ a.thumbnail.active, a.thumbnail:focus, a.thumbnail:hover {
 /* =Jumbotron Main
 -------------------------------------------------------------- */
 #particles-js {
-	background: #a89048; /* Old browsers */
-	background: -moz-linear-gradient(left, #a89048 0%, #dbc37b 30%, #dfca8c 63%, #ede1bd 100%); /* FF3.6-15 */
-	background: -webkit-linear-gradient(left, #a89048 0%,#dbc37b 30%,#dfca8c 63%,#ede1bd 100%); /* Chrome10-25,Safari5.1-6 */
-	background: linear-gradient(to right, #a89048 0%,#dbc37b 30%,#dfca8c 63%,#ede1bd 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#a89048', endColorstr='#ede1bd',GradientType=1 ); /* IE6-9 */
+	background: #1d1d1d; /* Old browsers */
+	background: -moz-linear-gradient(left, #1d1d1d 0%, #333333 30%, #333333 63%, #333333 100%); /* FF3.6-15 */
+	background: -webkit-linear-gradient(left, #1d1d1d 0%,#333333 30%,#333333 63%,#333333 100%); /* Chrome10-25,Safari5.1-6 */
+	background: linear-gradient(to right, #1d1d1d 0%,#333333 30%,#333333 63%,#333333 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1d1d1d', endColorstr='#333333',GradientType=1 ); /* IE6-9 */
 }
 
 /* =Our Process
